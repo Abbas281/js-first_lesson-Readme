@@ -25,3 +25,12 @@ ___
 ***
 > # Rules for Naming JavaScript Variables
 >>![](./img/js-img9.png)
+***
+> # CONDITION If/else statement
+>>![](./img/js-img10.png)
+***
+> # FUNCTIONS
+>>![](./img/js-img11.png)
+***
+> # FUNCTION REVIEW: ANATOMY of a function
+>>![](./img/js-img12.png)
